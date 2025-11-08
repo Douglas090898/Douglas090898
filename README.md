@@ -11,7 +11,7 @@ Sou um desenvolvedor focado em Front-End, apaixonado por tecnologia, tenho conhe
 [![Douglas stats](https://github-readme-stats.vercel.app/api?username=Douglas090898)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📂 Projetos em destaque
-- [Consulta tempo](https://douglas090898.github.io/previs-oTempo/): Projeto de consulta do tempo
+- [Consulta tempo](https://douglas090898.github.io/clima/): Projeto de consulta do tempo
 - [Lojas Apple](https://douglas090898.github.io/Loja-apple/): Loja Apple 
 
 ## 📫 Como me encontrar
